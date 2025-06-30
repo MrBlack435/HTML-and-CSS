@@ -1,0 +1,53 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+.main {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+.main td,
+.main th {
+  padding: 10px;
+  text-align: center;
+}
+
+.nav a {
+  margin: 0 5px;
+  text-decoration: none;
+  color: blue;
+}
+
+.nav button {
+  margin-left: 10px;
+  padding: 5px 10px;
+}
+
+.hero-text h2 {
+  color: darkblue;
+}
+
+.hero-text span {
+  color: royalblue;
+}
+
+.section-title {
+  background-color: #f0f0f0;
+  font-weight: 500px;
+  font-size: 30px;
+  padding: 15px 0;
+}
+
+.skills-row img,
+.projects img {
+  width: 100px;
+  height: auto;
+}
+
+.footer {
+  background-color: #f8f8f8;
+  font-size: 14px;
+}
